@@ -1,24 +1,23 @@
-# Compiled output
-e-commerce/build/
-e-commerce/dist/
-e-commerce/tmp/
-e-commerce/out-tsc/
-e-commerce/bazel-out/
-
-# Node
-e-commerce/node_modules/
-e-commerce/.npm/
-
-# Sass
-e-commerce/.sass-cache/
-e-commerce/e-commerce.component.css.map
-e-commerce/e-commerce.component.scss
-
-# Compiled output
-e-commerce/dist/
-e-commerce/tmp/
-e-commerce/out-tsc/
-e-commerce/bazel-out/
-
-# Sensitive data
-e-commerce/src/main/java/web/webapp2/connection/DbData.java
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
